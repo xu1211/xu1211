@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on 秦皇岛银行智能网点项目
-- 🌱 I’m currently learning SpringCloud
+- 🌱 I’m currently learning 
+  - SpringCloud
+  - kubernetes
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
