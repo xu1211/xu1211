@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 秦皇岛银行智能网点项目
 - 🌱 I’m currently learning 
-  - SpringCloud
+  - [SpringCloud深入学习](https://github.com/xu1211/springclouddemo)
+  - 博客迁移
   - kubernetes
 
 - 👯 I’m looking to collaborate on ...
