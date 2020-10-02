@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 秦皇岛银行智能网点项目
 - 🌱 I’m currently learning 
+  - go语言学习
   - SpringCloud深入学习
   - 博客迁移
   - kubernetes
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 - public Repositories 
   1. [python](https://github.com/xu1211/python)\
   语法，自制小工具
+  1. [go](https://github.com/xu1211/Golang)
   1. java
      1. [JavaTest](https://github.com/xu1211/JavaTest)\
       java特性，线程，算法
