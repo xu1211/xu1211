@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   - go语言学习
   - SpringCloud深入学习
   - 博客迁移
-  - kubernetes
+  - 
 
 - public Repositories 
   1. [python](https://github.com/xu1211/python)\
@@ -27,11 +27,17 @@ Here are some ideas to get you started:
   1. [go](https://github.com/xu1211/Golang)
   1. java
      1. [JavaTest](https://github.com/xu1211/JavaTest)\
-      java特性，线程，算法
+      java特性，线程，IO，代理，数据结构，算法
+     1. [JavaFramework](https://github.com/xu1211/JavaFramework)\
+      Java框架原理研究
+        - spring IOC
+        - spring MVC
+        - Netty
      1. [springBoot](https://github.com/xu1211/springbootdemo)\
       springBoot
      1. [springCloud](https://github.com/xu1211/springclouddemo)\
       springCloud
+
   1. 前端
      1. [CSS](https://github.com/xu1211/CSS)
      1. [JavaScript](https://github.com/xu1211/JavaScript)
