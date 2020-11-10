@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   1. [python](https://github.com/xu1211/python)\
   语法，自制小工具
   1. [shell,bat脚本](https://github.com/xu1211/ShellScript)\
-  自b编自用的一些脚本
+  自编自用的一些脚本
   1. [go](https://github.com/xu1211/Golang)
   1. java
      1. [JavaTest](https://github.com/xu1211/JavaTest)\
