@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 - 技术博客 https://blog.csdn.net/xyc1211
 - 🔭 I’m currently working on digital china-秦皇岛银行项目群
 - 🌱 I’m currently learning 
-  - go语言学习
-  - SpringCloud 微服务深入学习
+  - go语言
+  - Dubbo+Zookeeper微服务
   - 博客迁移（最初没规划导致博客太乱，计划把代码类的东西转在git, 理论类的梳理在博客）
-  - 
+  - 量化交易，python数据统计
 
 - public Repositories 
   1. [shell,bat脚本](https://github.com/xu1211/ShellScript)\
   自编自用的一些脚本
   1. [python](https://github.com/xu1211/python)\
-  语法，自制小工具
+  语法，自制小工具，量化策略
   1. [go语法](https://github.com/xu1211/Golang)
   1. java
      1. [JavaTest](https://github.com/xu1211/JavaTest)\
