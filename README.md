@@ -24,21 +24,36 @@ Here are some ideas to get you started:
 
 - public Repositories 
   1. java
-     1. [laboratory](https://github.com/xu1211/JavaTest)\
-      java特性，
-      线程操作，
-      IO操作，
-      代理，
-      数据结构，算法
+     1. [ConstructFramework](https://github.com/xu1211/ConstructFramework)\
+      springboot 框架搭建
+        - springboot + MyBatis Generator
+        - TODO 整合Swagger-UI
      1. [Framework](https://github.com/xu1211/JavaFramework)\
       Java框架原理研究
         - spring IOC
         - spring MVC
         - Netty
      1. [springBoot](https://github.com/xu1211/springbootdemo)\
-      springBoot项目
+      springBoot 项目
+        - 热部署 + thymeleaf + resful风格CRUD + redis
      1. [springCloud](https://github.com/xu1211/springclouddemo)\
-      springCloud 项目
+      springCloud 项目\
+        服务注册中心 Eureka Server，\
+        服务提供者 Eureka Client，\
+        服务消费者 ribbon + restTemplate，\
+        服务消费者 Feign，\
+        熔断器 Hystrix，\
+        熔断器仪表盘监控 Hystrix Dashboard，\
+        路由网关 zuul，\
+        分布式配置中心 Spring Cloud Config，\
+        服务链路追踪 ZipKin，\
+        服务监控 Spring Boot Admin
+     1. [laboratory](https://github.com/xu1211/JavaTest)\
+      java特性，
+      线程操作，
+      IO操作，
+      代理，
+      数据结构，算法
   1. [shell,bat脚本](https://github.com/xu1211/ShellScript)\
   自编自用的一些脚本
   1. [python](https://github.com/xu1211/python)\
