@@ -16,18 +16,20 @@ Here are some ideas to get you started:
 - 技术博客 https://blog.csdn.net/xyc1211
 - 🔭 I’m currently working on digital china-秦皇岛银行项目群
 - 🌱 I’m currently learning 
-  - 架构学习
-  - Dubbo+Zookeeper微服务
-  - go语言
-  - 博客迁移（最初没规划导致博客太乱，计划把代码类的东西转在git, 理论类的梳理在博客）
-  - 量化交易，python数据统计
-
+  - 后端架构搭建学习
 - public Repositories 
   1. java
      1. [ConstructFramework](https://github.com/xu1211/ConstructFramework)\
       springboot 框架搭建
-        - springboot + MyBatis Generator
-        - TODO 整合Swagger-UI
+        - springboot + MyBatis 基础框架
+        - v1.0 整合 MyBatis Generator
+        - v1.1 整合 Swagger-UI
+        - TODO SpringSecurity + JWT
+        - TODO Redis 实时数据缓存
+        - TODO kafka/RabbitMQ 消息队列
+        - TODO 整合 SpringTask
+        - TODO 整合 Elasticsearch
+        - TODO 开发模块分离
      1. [Framework](https://github.com/xu1211/JavaFramework)\
       Java框架原理研究
         - spring IOC
