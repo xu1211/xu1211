@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - 技术博客 https://blog.csdn.net/xyc1211
 - 🔭 I’m currently working on digital china-秦皇岛银行项目群
 - 🌱 I’m currently learning 
-  - 后端架构搭建学习
+  - 后端架构搭建
+  - ElasticSearch
+  - Kibana
 - public Repositories 
   1. java
      1. [ConstructFramework](https://github.com/xu1211/ConstructFramework)\
