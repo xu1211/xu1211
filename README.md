@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Kibana
 - public Repositories 
   1. java
-     1. [ConstructFramework](https://github.com/xu1211/ConstructFramework)\
+     1. [ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
       springboot 框架搭建
         - springboot + MyBatis 基础框架
         - v1.0 整合 MyBatis Generator
