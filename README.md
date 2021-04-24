@@ -26,14 +26,14 @@ Here are some ideas to get you started:
         - springboot + MyBatis 基础框架
         - v1.0 整合 MyBatis Generator
         - v1.1 整合 Swagger-UI
-        - TODO SpringSecurity + JWT
-        - TODO Redis 实时数据缓存
-        - TODO kafka/RabbitMQ 消息队列
-        - TODO 整合 SpringTask
-        - TODO 整合 Elasticsearch
-        - TODO 开发模块分离
+        - v1.2 SpringSecurity + JWT
+        - //TODO Redis 实时数据缓存
+        - //TODO kafka/RabbitMQ 消息队列
+        - //TODO 整合 SpringTask
+        - //TODO 整合 Elasticsearch
+        - //TODO 开发模块分离
      1. [Framework](https://github.com/xu1211/JavaFramework)\
-      Java框架原理研究
+      框架原理，源码研究
         - spring IOC
         - spring MVC
         - Netty
@@ -41,17 +41,17 @@ Here are some ideas to get you started:
       springBoot 项目
         - 热部署 + thymeleaf + resful风格CRUD + redis
      1. [springCloud](https://github.com/xu1211/springclouddemo)\
-      springCloud 项目\
-        服务注册中心 Eureka Server，\
-        服务提供者 Eureka Client，\
-        服务消费者 ribbon + restTemplate，\
-        服务消费者 Feign，\
-        熔断器 Hystrix，\
-        熔断器仪表盘监控 Hystrix Dashboard，\
-        路由网关 zuul，\
-        分布式配置中心 Spring Cloud Config，\
-        服务链路追踪 ZipKin，\
-        服务监控 Spring Boot Admin
+      springCloud Netflix项目\
+        Eureka Server：服务注册中心 ，\
+        Eureka Client：服务提供者 ，\
+        ribbon + restTemplate：服务消费者 ，\
+        Feign：服务消费者 ，\
+        Hystrix：熔断器 ，\
+        Hystrix Dashboard：熔断器仪表盘监控 ，\
+        zuul：路由网关 ，\
+        Spring Cloud Config：分布式配置中心 ，\
+        ZipKin：服务链路追踪 ，\
+        Spring Boot Admin：服务监控 
      1. [laboratory](https://github.com/xu1211/JavaTest)\
       java特性，
       线程操作，
