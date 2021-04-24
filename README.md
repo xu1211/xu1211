@@ -39,7 +39,10 @@ Here are some ideas to get you started:
         - Netty
      1. [springBoot](https://github.com/xu1211/springbootdemo)\
       springBoot 项目
-        - 热部署 + thymeleaf + resful风格CRUD + redis
+        - 热部署
+        - thymeleaf
+        - resful风格CRUD
+        - redis缓存
      1. [springCloud](https://github.com/xu1211/springclouddemo)\
       springCloud Netflix项目\
         Eureka Server：服务注册中心 ，\
@@ -54,9 +57,9 @@ Here are some ideas to get you started:
         Spring Boot Admin：服务监控 
      1. [laboratory](https://github.com/xu1211/JavaTest)\
       java特性，
-      线程操作，
-      IO操作，
-      代理，
+      多线程操作，
+      NIO，
+      动态代理，
       数据结构，算法
   1. [shell,bat脚本](https://github.com/xu1211/ShellScript)\
   自编自用的一些脚本
