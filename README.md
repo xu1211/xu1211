@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on digital china-秦皇岛银行项目群
 - 🌱 I’m currently learning 
   - 后端架构搭建
-  - ElasticSearch
-  - Kibana
+  - CI CD 工具
+  - 
 - public Repositories 
   1. java
      1. [ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
