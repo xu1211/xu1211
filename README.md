@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 技术博客 https://blog.csdn.net/xyc1211
-- 🔭 I’m currently working on digital china-秦皇岛银行项目群
+- 🔭 I’m currently working on 杭州
 - 🌱 I’m currently learning 
   - 后端架构搭建
   - CI CD 工具
