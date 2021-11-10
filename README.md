@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 技术博客 https://blog.csdn.net/xyc1211
-- 🔭 I’m currently working on 杭州
+- 🔭 I’m currently working on 西安
 - 🌱 I’m currently learning 
-  - 后端架构搭建
+  - go-micro
   - CI CD 工具
   - 
 - public Repositories 
-  1. java
+  1. [go语法](https://github.com/xu1211/Golang)
+  2. [go框架](https://github.com/xu1211/goFrame)
+    1. gin
+    2. 
+  4. java
      1. [ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
       springboot 框架搭建
         - springboot + MyBatis 基础框架
@@ -65,7 +69,6 @@ Here are some ideas to get you started:
   自编自用的一些脚本
   1. [python](https://github.com/xu1211/python)\
   语法，自制小工具，量化策略
-  1. [go语法](https://github.com/xu1211/Golang)
   1. 前端
      1. [CSS](https://github.com/xu1211/CSS)
      1. [JavaScript](https://github.com/xu1211/JavaScript)
