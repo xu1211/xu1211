@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 西安
 - 🌱 I’m currently learning 
   - go-micro
-  - CI CD 工具
+  - k8s
   - 
 - public Repositories 
   1. [go语法](https://github.com/xu1211/Golang)
   2. [go框架](https://github.com/xu1211/goFrame)
-     1. gin
-     2. protobuf
+     1. gin web框架
+     2. protobuf  grpc调用
+     3. gorm  数据库
   4. java
      1. [ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
       springboot 框架搭建
