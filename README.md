@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 技术博客 https://blog.csdn.net/xyc1211
-- 🔭 I’m currently working on 西安
+- 🔭 I’m currently working on 西安-腾讯云智
 - 🌱 I’m currently learning 
-  - go-micro
+  - 系统设计
+  - 大数据技术
   - k8s
-  - 
 - public Repositories 
   1. [go语法](https://github.com/xu1211/Golang)
   2. [go框架](https://github.com/xu1211/goFrame)
@@ -26,22 +26,12 @@ Here are some ideas to get you started:
      2. protobuf  grpc调用
      3. gorm  数据库
   4. java
-     1. [ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
-      springboot 框架搭建
-        - springboot + MyBatis 基础框架
-        - v1.0 整合 MyBatis Generator
-        - v1.1 整合 Swagger-UI
-        - v1.2 SpringSecurity + JWT
-        - //TODO Redis 实时数据缓存
-        - //TODO kafka/RabbitMQ 消息队列
-        - //TODO 整合 SpringTask
-        - //TODO 整合 Elasticsearch
-        - //TODO 开发模块分离
-     1. [Framework](https://github.com/xu1211/JavaFramework)\
-      框架原理，源码研究
-        - spring IOC
-        - spring MVC
-        - Netty
+     1. [laboratory](https://github.com/xu1211/JavaTest)\
+      java特性实验，
+      多线程操作，
+      NIO，
+      动态代理，
+      数据结构，算法
      1. [springBoot](https://github.com/xu1211/springbootdemo)\
       springBoot 项目
         - 热部署
@@ -60,12 +50,22 @@ Here are some ideas to get you started:
         Spring Cloud Config：分布式配置中心 ，\
         ZipKin：服务链路追踪 ，\
         Spring Boot Admin：服务监控 
-     1. [laboratory](https://github.com/xu1211/JavaTest)\
-      java特性，
-      多线程操作，
-      NIO，
-      动态代理，
-      数据结构，算法
+     1. [学组件、框架 Framework](https://github.com/xu1211/JavaFramework)\
+      框架原理，源码研究
+        - spring IOC
+        - spring MVC
+        - Netty
+     1. [用组件、框架](https://github.com/xu1211/framework-learning)
+     1. [整合组件、框架 ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
+      springboot 框架搭建
+        - springboot + MyBatis 基础框架
+        - v1.0 整合 MyBatis Generator
+        - v1.1 整合 Swagger-UI
+        - v1.2 SpringSecurity + JWT
+        - v1.2 kafka
+  - 功能使用
+     1. [mysql-jsonNotes语法测试](https://github.com/xu1211/mysql-jsonNotes)
+     2. [apache.poi 导出excel](https://github.com/xu1211/poi-demo)
   1. [shell,bat脚本](https://github.com/xu1211/ShellScript)\
   自编自用的一些脚本
   1. [python](https://github.com/xu1211/python)\
