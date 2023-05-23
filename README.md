@@ -55,15 +55,17 @@ Here are some ideas to get you started:
         - spring IOC
         - spring MVC
         - Netty
-     1. [用组件、框架](https://github.com/xu1211/framework-learning)
-     1. [整合组件、框架 ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
+     1. [学习组件、框架](https://github.com/xu1211/framework-learning)
+        - kafka
+        - 打包 docker 镜像
+     1. [搭建组件、框架 ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
       springboot 框架搭建
         - springboot + MyBatis 基础框架
         - v1.0 整合 MyBatis Generator
         - v1.1 整合 Swagger-UI
         - v1.2 SpringSecurity + JWT
         - v1.2 kafka
-  - 功能使用
+  - 功能使用验证
      1. [mysql-jsonNotes语法测试](https://github.com/xu1211/mysql-jsonNotes)
      2. [apache.poi 导出excel](https://github.com/xu1211/poi-demo)
   1. [shell,bat脚本](https://github.com/xu1211/ShellScript)\
