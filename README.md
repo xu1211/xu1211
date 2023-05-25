@@ -50,14 +50,15 @@ Here are some ideas to get you started:
         Spring Cloud Config：分布式配置中心 ，\
         ZipKin：服务链路追踪 ，\
         Spring Boot Admin：服务监控 
-     1. [学组件、框架 Framework](https://github.com/xu1211/JavaFramework)\
+     1. [学习组件、框架 源码细节](https://github.com/xu1211/JavaFramework)\
       框架原理，源码研究
         - spring IOC
         - spring MVC
         - Netty
-     1. [学习组件、框架](https://github.com/xu1211/framework-learning)
+     1. [学习组件、框架 使用](https://github.com/xu1211/framework-learning)
         - kafka
         - 打包 docker 镜像
+        - grpc
      1. [搭建组件、框架 ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
       springboot 框架搭建
         - springboot + MyBatis 基础框架
