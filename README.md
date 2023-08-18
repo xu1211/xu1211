@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 
   - 系统设计
   - 大数据技术
-  - k8s
-- public Repositories 
+- public Repositories
+  1. 大数据
+     1. [spark](https://github.com/xu1211/spark-test)
+     2. [flink](https://github.com/xu1211/flink-test)
   1. [go语法](https://github.com/xu1211/Golang)
   2. [go框架](https://github.com/xu1211/goFrame)
      1. gin web框架
@@ -38,6 +40,7 @@ Here are some ideas to get you started:
         - thymeleaf
         - resful风格CRUD
         - redis缓存
+        - [kafka](https://github.com/xu1211/kafka-test)
      1. [springCloud](https://github.com/xu1211/springclouddemo)\
       springCloud Netflix项目\
         Eureka Server：服务注册中心 ，\
