@@ -60,7 +60,7 @@ Here are some ideas to get you started:
      1. [学习组件、框架 使用](https://github.com/xu1211/framework-learning)
         - kafka
         - 打包 docker 镜像
-        - grpc
+        - java Grpc
      1. [搭建组件、框架 ConstructFramework](https://gitee.com/xu_yuchun/construct-framework)\
       springboot 框架搭建
         - springboot + MyBatis 基础框架
