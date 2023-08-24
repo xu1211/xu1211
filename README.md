@@ -19,26 +19,25 @@ Here are some ideas to get you started:
   - 系统设计
   - 大数据技术
 - public Repositories
+  - 功能使用验证
+     1. [mysql8-jsonNotes语法测试](https://github.com/xu1211/mysql-jsonNotes)
+     2. [apache.poi 导出excel](https://github.com/xu1211/poi-demo)
   1. 大数据
      1. [spark](https://github.com/xu1211/spark-test)
      2. [flink](https://github.com/xu1211/flink-test)
   1. [go语法](https://github.com/xu1211/Golang)
   2. [go框架](https://github.com/xu1211/goFrame)
      1. gin web框架
-     2. protobuf  grpc调用
+     2. grpc调用
      3. gorm  数据库
-  4. java
+  1. java相关
      1. [laboratory](https://github.com/xu1211/JavaTest)\
       java特性实验，
-      多线程操作，
-      NIO，
-      动态代理，
+      多线程操作，NIO，动态代理，
       数据结构，算法
      1. [springBoot](https://github.com/xu1211/springbootdemo)\
       springBoot 项目
-        - 热部署
-        - thymeleaf
-        - resful风格CRUD
+        - 热部署、thymeleaf、resful风格CRUD
         - redis缓存
         - [kafka](https://github.com/xu1211/kafka-test)
      1. [springCloud](https://github.com/xu1211/springclouddemo)\
@@ -69,13 +68,12 @@ Here are some ideas to get you started:
         - v1.1 整合 Swagger-UI
         - v1.2 SpringSecurity + JWT
         - v1.2 kafka
-  - 功能使用验证
-     1. [mysql-jsonNotes语法测试](https://github.com/xu1211/mysql-jsonNotes)
-     2. [apache.poi 导出excel](https://github.com/xu1211/poi-demo)
   1. [shell,bat脚本](https://github.com/xu1211/ShellScript)\
-  自编自用的一些脚本
+  自编自用的一些脚本（linux系统检测、批量备份）（win网卡、路由设置、网络检测）
   1. [python](https://github.com/xu1211/python)\
-  语法，自制小工具，量化策略
+  语法，
+  TCP报文工具（支持中文编码），
+  量化策略
   1. 前端
      1. [CSS](https://github.com/xu1211/CSS)
      1. [JavaScript](https://github.com/xu1211/JavaScript)
