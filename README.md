@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 技术博客 https://blog.csdn.net/xyc1211
-- 🔭 I’m currently working on 西安-腾讯云智
+- 🔭 I’m currently working on lotusflare
 - 🌱 I’m currently learning 
   - 系统设计
   - 大数据技术
