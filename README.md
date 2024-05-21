@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 - 技术博客 https://blog.csdn.net/xyc1211
 - 🔭 I’m currently working on lotusflare
 - 🌱 I’m currently learning 
-  - 系统设计
-  - 大数据技术
+  - AI
+  - nodejs
 - public Repositories
+  - [machine-learning](https://github.com/xu1211/machine-learning)
+    机器学习；jupyter notebook；scikit-learn；regression，classify
   - 功能使用验证
      1. [mysql8-jsonNotes语法测试](https://github.com/xu1211/mysql-jsonNotes)
      2. [apache.poi 导出excel](https://github.com/xu1211/poi-demo)
