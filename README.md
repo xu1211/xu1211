@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 技术博客 https://blog.csdn.net/xyc1211
+- blog: https://blog.csdn.net/xyc1211
 - 🔭 I’m currently working on lotusflare
 - 🌱 I’m currently learning 
   - AI
   - nodejs
+  - IOS development
 - public Repositories
   - [machine-learning](https://github.com/xu1211/machine-learning)
     机器学习；jupyter notebook；scikit-learn；regression，classify
@@ -44,16 +45,16 @@ Here are some ideas to get you started:
         - [kafka](https://github.com/xu1211/kafka-test)
      1. [springCloud](https://github.com/xu1211/springclouddemo)\
       springCloud Netflix项目\
-        Eureka Server：服务注册中心 ，\
-        Eureka Client：服务提供者 ，\
-        ribbon + restTemplate：服务消费者 ，\
-        Feign：服务消费者 ，\
-        Hystrix：熔断器 ，\
-        Hystrix Dashboard：熔断器仪表盘监控 ，\
-        zuul：路由网关 ，\
-        Spring Cloud Config：分布式配置中心 ，\
-        ZipKin：服务链路追踪 ，\
-        Spring Boot Admin：服务监控 
+        Eureka Server：服务注册中心 ；
+        Eureka Client：服务提供者 ；
+        ribbon + restTemplate：服务消费者 ；
+        Feign：服务消费者 ；
+        Hystrix：熔断器 ；
+        Hystrix Dashboard：熔断器仪表盘监控 ；
+        zuul：路由网关 ；
+        Spring Cloud Config：分布式配置中心 ；
+        ZipKin：服务链路追踪 ；
+        Spring Boot Admin：服务监控 ；
      1. [学习组件、框架 源码细节](https://github.com/xu1211/JavaFramework)\
       框架原理，源码研究
         - spring IOC
@@ -71,7 +72,7 @@ Here are some ideas to get you started:
         - v1.2 SpringSecurity + JWT
         - v1.2 kafka
   1. [shell,bat脚本](https://github.com/xu1211/ShellScript)\
-  自编自用的一些脚本（linux系统检测、批量备份）（win网卡、路由设置、网络检测）
+  自编自用的一些脚本（linux系统检测、批量备份）（win网卡、路由设置、网络检测）（Tampermonkey scirpt）
   1. [python](https://github.com/xu1211/python)\
   语法，
   TCP报文工具（支持中文编码），
